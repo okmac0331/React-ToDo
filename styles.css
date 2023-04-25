@@ -1,11 +1,11 @@
 #root {
-  background-color: #add8e6;
+  background-color: lightblue;
   width: 50%;
 }
 
 .planner-item {
-  background-color: #e6e6fa;
-  border: 1px solid #fff;
+  background-color: lavender;
+  border: 1px solid white;
   padding: 5px;
   margin: 10px 0;
   }
@@ -17,10 +17,10 @@
   margin: 0;
 }
 input {
-  background-color: #ffb6c1;
+  background-color: lightpink;
   padding: 2px;
 }
 
 input:hover {
-  backgroun: #cf9fff;
+  backgroun: violet;
 }
