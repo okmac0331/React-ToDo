@@ -42,20 +42,16 @@ function App() {
 
   const [todos, setTodos] = React.useState([
     {
-      text: "Get Groceries",
-      date: "12:39:38 PM",
+      text: "Make grocery list",
     },
     {
-      text: "Meal Prep",
-      date: "12:41:38 PM",
+      text: "Email boss",
     },
     {
-      text: "Power Nap",
-      date: "12:45:38 PM",
+      text: "Do coding",
     },
     {
-      text: "Learn React",
-      date: "04:45:38 PM",
+      text: "Do laundry",
     },
   ]);
   return (
